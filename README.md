@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/jishitha23/APS/tree/master/0217-contains-duplicate) |
+| [0977-squares-of-a-sorted-array](https://github.com/jishitha23/APS/tree/master/0977-squares-of-a-sorted-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -13,4 +14,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/jishitha23/APS/tree/master/0217-contains-duplicate) |
+| [0977-squares-of-a-sorted-array](https://github.com/jishitha23/APS/tree/master/0977-squares-of-a-sorted-array) |
+## Two Pointers
+|  |
+| ------- |
+| [0977-squares-of-a-sorted-array](https://github.com/jishitha23/APS/tree/master/0977-squares-of-a-sorted-array) |
 <!---LeetCode Topics End-->
