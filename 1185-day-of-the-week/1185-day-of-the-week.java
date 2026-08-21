@@ -1,20 +1,13 @@
 class Solution {
-
     public String dayOfTheWeek(int day, int month, int year) {
 
         String[] days = {
-            "Sunday",
-            "Monday",
-            "Tuesday",
-            "Wednesday",
-            "Thursday",
-            "Friday",
-            "Saturday"
+            "Sunday", "Monday", "Tuesday",
+            "Wednesday", "Thursday", "Friday", "Saturday"
         };
 
         int totalDays = 0;
 
-        // January 1, 1971 was Friday
         // Count complete years from 1971 to year - 1
         for (int y = 1971; y < year; y++) {
             if (isLeapYear(y)) {
@@ -24,37 +17,33 @@ class Solution {
             }
         }
 
-        int[] daysInMonth = {
+        // Days in each month
+        int[] monthDays = {
             31, 28, 31, 30, 31, 30,
             31, 31, 30, 31, 30, 31
         };
 
-        // Count complete months
+        // Add days of previous months
         for (int m = 1; m < month; m++) {
-            totalDays += daysInMonth[m - 1];
+            totalDays += monthDays[m - 1];
 
+            // Add extra day for February in leap year
             if (m == 2 && isLeapYear(year)) {
                 totalDays++;
             }
         }
 
-        // Add days before the given date
+        // Add days before the given day
         totalDays += day - 1;
 
-        // January 1, 1971 = Friday (index 5)
-        return days[(totalDays + 5) % 7];
+        // January 1, 1971 = Friday
+        int index = (5 + totalDays) % 7;
+
+        return days[index];
     }
 
     private boolean isLeapYear(int year) {
-
-        if (year % 400 == 0) {
-            return true;
-        }
-
-        if (year % 100 == 0) {
-            return false;
-        }
-
-        return year % 4 == 0;
+        return (year % 400 == 0) ||
+               (year % 4 == 0 && year % 100 != 0);
     }
 }
