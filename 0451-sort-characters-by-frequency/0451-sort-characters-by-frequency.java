@@ -1,49 +1,44 @@
-class Solution {
+import java.util.*;
 
+class Solution {
     public String frequencySort(String s) {
 
         // Count frequency of each character
-        int[] freq = new int[128];
+        HashMap<Character, Integer> freq = new HashMap<>();
 
-        for (int i = 0; i < s.length(); i++) {
-            freq[s.charAt(i)]++;
+        for (char c : s.toCharArray()) {
+            freq.put(c, freq.getOrDefault(c, 0) + 1);
         }
 
-        // Create list of characters
-        Character[] chars = new Character[128];
-        int count = 0;
+        // Create buckets based on frequency
+        List<Character>[] bucket = new ArrayList[s.length() + 1];
 
-        for (int i = 0; i < 128; i++) {
-            if (freq[i] > 0) {
-                chars[count++] = (char) i;
+        for (char c : freq.keySet()) {
+            int count = freq.get(c);
+
+            if (bucket[count] == null) {
+                bucket[count] = new ArrayList<>();
             }
+
+            bucket[count].add(c);
         }
 
-        // Sort characters by decreasing frequency
-        for (int i = 0; i < count - 1; i++) {
-            for (int j = i + 1; j < count; j++) {
+        // Build answer from highest frequency to lowest
+        StringBuilder ans = new StringBuilder();
 
-                if (freq[chars[i]] < freq[chars[j]]) {
+        for (int i = s.length(); i >= 1; i--) {
 
-                    Character temp = chars[i];
-                    chars[i] = chars[j];
-                    chars[j] = temp;
+            if (bucket[i] != null) {
+
+                for (char c : bucket[i]) {
+
+                    for (int j = 0; j < i; j++) {
+                        ans.append(c);
+                    }
                 }
             }
         }
 
-        // Build result
-        StringBuilder result = new StringBuilder();
-
-        for (int i = 0; i < count; i++) {
-
-            char c = chars[i];
-
-            for (int j = 0; j < freq[c]; j++) {
-                result.append(c);
-            }
-        }
-
-        return result.toString();
+        return ans.toString();
     }
 }
