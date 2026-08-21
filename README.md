@@ -19,11 +19,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/jishitha23/APS/tree/master/0160-intersection-of-two-linked-lists) |
 | [0217-contains-duplicate](https://github.com/jishitha23/APS/tree/master/0217-contains-duplicate) |
 | [0387-first-unique-character-in-a-string](https://github.com/jishitha23/APS/tree/master/0387-first-unique-character-in-a-string) |
+| [0451-sort-characters-by-frequency](https://github.com/jishitha23/APS/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/jishitha23/APS/tree/master/0496-next-greater-element-i) |
 ## Sorting
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/jishitha23/APS/tree/master/0217-contains-duplicate) |
+| [0451-sort-characters-by-frequency](https://github.com/jishitha23/APS/tree/master/0451-sort-characters-by-frequency) |
 | [0977-squares-of-a-sorted-array](https://github.com/jishitha23/APS/tree/master/0977-squares-of-a-sorted-array) |
 ## Two Pointers
 |  |
@@ -56,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/jishitha23/APS/tree/master/0023-merge-k-sorted-lists) |
+| [0451-sort-characters-by-frequency](https://github.com/jishitha23/APS/tree/master/0451-sort-characters-by-frequency) |
 ## Merge Sort
 |  |
 | ------- |
@@ -69,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/jishitha23/APS/tree/master/0020-valid-parentheses) |
 | [0387-first-unique-character-in-a-string](https://github.com/jishitha23/APS/tree/master/0387-first-unique-character-in-a-string) |
+| [0451-sort-characters-by-frequency](https://github.com/jishitha23/APS/tree/master/0451-sort-characters-by-frequency) |
 | [1154-day-of-the-year](https://github.com/jishitha23/APS/tree/master/1154-day-of-the-year) |
 | [1360-number-of-days-between-two-dates](https://github.com/jishitha23/APS/tree/master/1360-number-of-days-between-two-dates) |
 ## Queue
@@ -79,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/jishitha23/APS/tree/master/0387-first-unique-character-in-a-string) |
+| [0451-sort-characters-by-frequency](https://github.com/jishitha23/APS/tree/master/0451-sort-characters-by-frequency) |
 ## Stack
 |  |
 | ------- |
@@ -121,4 +126,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1154-day-of-the-year](https://github.com/jishitha23/APS/tree/master/1154-day-of-the-year) |
 | [1185-day-of-the-week](https://github.com/jishitha23/APS/tree/master/1185-day-of-the-week) |
 | [1360-number-of-days-between-two-dates](https://github.com/jishitha23/APS/tree/master/1360-number-of-days-between-two-dates) |
+## Bucket Sort
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/jishitha23/APS/tree/master/0451-sort-characters-by-frequency) |
 <!---LeetCode Topics End-->
