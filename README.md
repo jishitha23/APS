@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/jishitha23/APS/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/jishitha23/APS/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0217-contains-duplicate](https://github.com/jishitha23/APS/tree/master/0217-contains-duplicate) |
 | [0496-next-greater-element-i](https://github.com/jishitha23/APS/tree/master/0496-next-greater-element-i) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/jishitha23/APS/tree/master/0023-merge-k-sorted-lists) |
+| [0053-maximum-subarray](https://github.com/jishitha23/APS/tree/master/0053-maximum-subarray) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -67,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/jishitha23/APS/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/jishitha23/APS/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## String
 |  |
