@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/jishitha23/APS/tree/master/0217-contains-duplicate) |
 | [0239-sliding-window-maximum](https://github.com/jishitha23/APS/tree/master/0239-sliding-window-maximum) |
 | [0496-next-greater-element-i](https://github.com/jishitha23/APS/tree/master/0496-next-greater-element-i) |
+| [0621-task-scheduler](https://github.com/jishitha23/APS/tree/master/0621-task-scheduler) |
 | [0622-design-circular-queue](https://github.com/jishitha23/APS/tree/master/0622-design-circular-queue) |
 | [0641-design-circular-deque](https://github.com/jishitha23/APS/tree/master/0641-design-circular-deque) |
 | [0735-asteroid-collision](https://github.com/jishitha23/APS/tree/master/0735-asteroid-collision) |
@@ -26,11 +27,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/jishitha23/APS/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/jishitha23/APS/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/jishitha23/APS/tree/master/0496-next-greater-element-i) |
+| [0621-task-scheduler](https://github.com/jishitha23/APS/tree/master/0621-task-scheduler) |
 ## Sorting
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/jishitha23/APS/tree/master/0217-contains-duplicate) |
 | [0451-sort-characters-by-frequency](https://github.com/jishitha23/APS/tree/master/0451-sort-characters-by-frequency) |
+| [0621-task-scheduler](https://github.com/jishitha23/APS/tree/master/0621-task-scheduler) |
 | [0977-squares-of-a-sorted-array](https://github.com/jishitha23/APS/tree/master/0977-squares-of-a-sorted-array) |
 ## Two Pointers
 |  |
@@ -68,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/jishitha23/APS/tree/master/0023-merge-k-sorted-lists) |
 | [0239-sliding-window-maximum](https://github.com/jishitha23/APS/tree/master/0239-sliding-window-maximum) |
 | [0451-sort-characters-by-frequency](https://github.com/jishitha23/APS/tree/master/0451-sort-characters-by-frequency) |
+| [0621-task-scheduler](https://github.com/jishitha23/APS/tree/master/0621-task-scheduler) |
 ## Merge Sort
 |  |
 | ------- |
@@ -98,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/jishitha23/APS/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/jishitha23/APS/tree/master/0451-sort-characters-by-frequency) |
+| [0621-task-scheduler](https://github.com/jishitha23/APS/tree/master/0621-task-scheduler) |
 ## Stack
 |  |
 | ------- |
@@ -181,4 +186,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0199-binary-tree-right-side-view](https://github.com/jishitha23/APS/tree/master/0199-binary-tree-right-side-view) |
+## Greedy
+|  |
+| ------- |
+| [0621-task-scheduler](https://github.com/jishitha23/APS/tree/master/0621-task-scheduler) |
 <!---LeetCode Topics End-->
