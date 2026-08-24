@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/jishitha23/APS/tree/master/0387-first-unique-character-in-a-string) |
 | [0622-design-circular-queue](https://github.com/jishitha23/APS/tree/master/0622-design-circular-queue) |
 | [0641-design-circular-deque](https://github.com/jishitha23/APS/tree/master/0641-design-circular-deque) |
+| [0933-number-of-recent-calls](https://github.com/jishitha23/APS/tree/master/0933-number-of-recent-calls) |
 ## Counting
 |  |
 | ------- |
@@ -128,10 +129,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0622-design-circular-queue](https://github.com/jishitha23/APS/tree/master/0622-design-circular-queue) |
 | [0641-design-circular-deque](https://github.com/jishitha23/APS/tree/master/0641-design-circular-deque) |
 | [0901-online-stock-span](https://github.com/jishitha23/APS/tree/master/0901-online-stock-span) |
+| [0933-number-of-recent-calls](https://github.com/jishitha23/APS/tree/master/0933-number-of-recent-calls) |
 ## Data Stream
 |  |
 | ------- |
 | [0901-online-stock-span](https://github.com/jishitha23/APS/tree/master/0901-online-stock-span) |
+| [0933-number-of-recent-calls](https://github.com/jishitha23/APS/tree/master/0933-number-of-recent-calls) |
 ## Bracket Sequences
 |  |
 | ------- |
