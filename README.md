@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/jishitha23/APS/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/jishitha23/APS/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0217-contains-duplicate](https://github.com/jishitha23/APS/tree/master/0217-contains-duplicate) |
+| [0239-sliding-window-maximum](https://github.com/jishitha23/APS/tree/master/0239-sliding-window-maximum) |
 | [0496-next-greater-element-i](https://github.com/jishitha23/APS/tree/master/0496-next-greater-element-i) |
 | [0735-asteroid-collision](https://github.com/jishitha23/APS/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/jishitha23/APS/tree/master/0739-daily-temperatures) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/jishitha23/APS/tree/master/0023-merge-k-sorted-lists) |
+| [0239-sliding-window-maximum](https://github.com/jishitha23/APS/tree/master/0239-sliding-window-maximum) |
 | [0451-sort-characters-by-frequency](https://github.com/jishitha23/APS/tree/master/0451-sort-characters-by-frequency) |
 ## Merge Sort
 |  |
@@ -83,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/jishitha23/APS/tree/master/0225-implement-stack-using-queues) |
+| [0239-sliding-window-maximum](https://github.com/jishitha23/APS/tree/master/0239-sliding-window-maximum) |
 | [0387-first-unique-character-in-a-string](https://github.com/jishitha23/APS/tree/master/0387-first-unique-character-in-a-string) |
 ## Counting
 |  |
@@ -139,4 +142,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/jishitha23/APS/tree/master/0451-sort-characters-by-frequency) |
+## Sliding Window
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/jishitha23/APS/tree/master/0239-sliding-window-maximum) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/jishitha23/APS/tree/master/0239-sliding-window-maximum) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/jishitha23/APS/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
