@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/jishitha23/APS/tree/master/0217-contains-duplicate) |
 | [0239-sliding-window-maximum](https://github.com/jishitha23/APS/tree/master/0239-sliding-window-maximum) |
 | [0496-next-greater-element-i](https://github.com/jishitha23/APS/tree/master/0496-next-greater-element-i) |
+| [0622-design-circular-queue](https://github.com/jishitha23/APS/tree/master/0622-design-circular-queue) |
 | [0735-asteroid-collision](https://github.com/jishitha23/APS/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/jishitha23/APS/tree/master/0739-daily-temperatures) |
 | [0946-validate-stack-sequences](https://github.com/jishitha23/APS/tree/master/0946-validate-stack-sequences) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/jishitha23/APS/tree/master/0023-merge-k-sorted-lists) |
 | [0142-linked-list-cycle-ii](https://github.com/jishitha23/APS/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/jishitha23/APS/tree/master/0160-intersection-of-two-linked-lists) |
+| [0622-design-circular-queue](https://github.com/jishitha23/APS/tree/master/0622-design-circular-queue) |
 | [0876-middle-of-the-linked-list](https://github.com/jishitha23/APS/tree/master/0876-middle-of-the-linked-list) |
 ## Recursion
 |  |
@@ -87,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/jishitha23/APS/tree/master/0225-implement-stack-using-queues) |
 | [0239-sliding-window-maximum](https://github.com/jishitha23/APS/tree/master/0239-sliding-window-maximum) |
 | [0387-first-unique-character-in-a-string](https://github.com/jishitha23/APS/tree/master/0387-first-unique-character-in-a-string) |
+| [0622-design-circular-queue](https://github.com/jishitha23/APS/tree/master/0622-design-circular-queue) |
 ## Counting
 |  |
 | ------- |
@@ -114,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/jishitha23/APS/tree/master/0225-implement-stack-using-queues) |
+| [0622-design-circular-queue](https://github.com/jishitha23/APS/tree/master/0622-design-circular-queue) |
 | [0901-online-stock-span](https://github.com/jishitha23/APS/tree/master/0901-online-stock-span) |
 ## Data Stream
 |  |
