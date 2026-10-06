@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/jishitha23/APS/tree/master/0217-contains-duplicate) |
 | [0239-sliding-window-maximum](https://github.com/jishitha23/APS/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/jishitha23/APS/tree/master/0347-top-k-frequent-elements) |
+| [0373-find-k-pairs-with-smallest-sums](https://github.com/jishitha23/APS/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0496-next-greater-element-i](https://github.com/jishitha23/APS/tree/master/0496-next-greater-element-i) |
 | [0621-task-scheduler](https://github.com/jishitha23/APS/tree/master/0621-task-scheduler) |
 | [0622-design-circular-queue](https://github.com/jishitha23/APS/tree/master/0622-design-circular-queue) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/jishitha23/APS/tree/master/0023-merge-k-sorted-lists) |
 | [0239-sliding-window-maximum](https://github.com/jishitha23/APS/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/jishitha23/APS/tree/master/0347-top-k-frequent-elements) |
+| [0373-find-k-pairs-with-smallest-sums](https://github.com/jishitha23/APS/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0451-sort-characters-by-frequency](https://github.com/jishitha23/APS/tree/master/0451-sort-characters-by-frequency) |
 | [0621-task-scheduler](https://github.com/jishitha23/APS/tree/master/0621-task-scheduler) |
 ## Merge Sort
