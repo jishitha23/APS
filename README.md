@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/jishitha23/APS/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/jishitha23/APS/tree/master/0217-contains-duplicate) |
 | [0239-sliding-window-maximum](https://github.com/jishitha23/APS/tree/master/0239-sliding-window-maximum) |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/jishitha23/APS/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0347-top-k-frequent-elements](https://github.com/jishitha23/APS/tree/master/0347-top-k-frequent-elements) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/jishitha23/APS/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0496-next-greater-element-i](https://github.com/jishitha23/APS/tree/master/0496-next-greater-element-i) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/jishitha23/APS/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/jishitha23/APS/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/jishitha23/APS/tree/master/0190-reverse-bits) |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/jishitha23/APS/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0347-top-k-frequent-elements](https://github.com/jishitha23/APS/tree/master/0347-top-k-frequent-elements) |
 | [1763-longest-nice-substring](https://github.com/jishitha23/APS/tree/master/1763-longest-nice-substring) |
 ## Heap (Priority Queue)
@@ -107,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/jishitha23/APS/tree/master/0023-merge-k-sorted-lists) |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/jishitha23/APS/tree/master/0315-count-of-smaller-numbers-after-self) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -317,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/jishitha23/APS/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/jishitha23/APS/tree/master/0315-count-of-smaller-numbers-after-self) |
 ## Quickselect
 |  |
 | ------- |
@@ -364,4 +368,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0190-reverse-bits](https://github.com/jishitha23/APS/tree/master/0190-reverse-bits) |
 | [1763-longest-nice-substring](https://github.com/jishitha23/APS/tree/master/1763-longest-nice-substring) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/jishitha23/APS/tree/master/0315-count-of-smaller-numbers-after-self) |
+## Segment Tree
+|  |
+| ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/jishitha23/APS/tree/master/0315-count-of-smaller-numbers-after-self) |
+## Ordered Set
+|  |
+| ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/jishitha23/APS/tree/master/0315-count-of-smaller-numbers-after-self) |
+## Treap
+|  |
+| ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/jishitha23/APS/tree/master/0315-count-of-smaller-numbers-after-self) |
 <!---LeetCode Topics End-->
