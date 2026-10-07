@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/jishitha23/APS/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/jishitha23/APS/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/jishitha23/APS/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## String
 |  |
@@ -200,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/jishitha23/APS/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/jishitha23/APS/tree/master/0202-happy-number) |
 | [0973-k-closest-points-to-origin](https://github.com/jishitha23/APS/tree/master/0973-k-closest-points-to-origin) |
 | [1154-day-of-the-year](https://github.com/jishitha23/APS/tree/master/1154-day-of-the-year) |
@@ -398,4 +400,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0973-k-closest-points-to-origin](https://github.com/jishitha23/APS/tree/master/0973-k-closest-points-to-origin) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/jishitha23/APS/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
