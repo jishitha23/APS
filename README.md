@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0929-unique-email-addresses](https://github.com/jishitha23/APS/tree/master/0929-unique-email-addresses) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/jishitha23/APS/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0997-find-the-town-judge](https://github.com/jishitha23/APS/tree/master/0997-find-the-town-judge) |
+| [1763-longest-nice-substring](https://github.com/jishitha23/APS/tree/master/1763-longest-nice-substring) |
 ## Sorting
 |  |
 | ------- |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/jishitha23/APS/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/jishitha23/APS/tree/master/0190-reverse-bits) |
 | [0347-top-k-frequent-elements](https://github.com/jishitha23/APS/tree/master/0347-top-k-frequent-elements) |
+| [1763-longest-nice-substring](https://github.com/jishitha23/APS/tree/master/1763-longest-nice-substring) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -122,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0929-unique-email-addresses](https://github.com/jishitha23/APS/tree/master/0929-unique-email-addresses) |
 | [1154-day-of-the-year](https://github.com/jishitha23/APS/tree/master/1154-day-of-the-year) |
 | [1360-number-of-days-between-two-dates](https://github.com/jishitha23/APS/tree/master/1360-number-of-days-between-two-dates) |
+| [1763-longest-nice-substring](https://github.com/jishitha23/APS/tree/master/1763-longest-nice-substring) |
 ## Queue
 |  |
 | ------- |
@@ -203,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/jishitha23/APS/tree/master/0239-sliding-window-maximum) |
+| [1763-longest-nice-substring](https://github.com/jishitha23/APS/tree/master/1763-longest-nice-substring) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -359,4 +363,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0190-reverse-bits](https://github.com/jishitha23/APS/tree/master/0190-reverse-bits) |
+| [1763-longest-nice-substring](https://github.com/jishitha23/APS/tree/master/1763-longest-nice-substring) |
 <!---LeetCode Topics End-->
