@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/jishitha23/APS/tree/master/0217-contains-duplicate) |
 | [0239-sliding-window-maximum](https://github.com/jishitha23/APS/tree/master/0239-sliding-window-maximum) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/jishitha23/APS/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [0322-coin-change](https://github.com/jishitha23/APS/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/jishitha23/APS/tree/master/0347-top-k-frequent-elements) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/jishitha23/APS/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0474-ones-and-zeroes](https://github.com/jishitha23/APS/tree/master/0474-ones-and-zeroes) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/jishitha23/APS/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/jishitha23/APS/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/jishitha23/APS/tree/master/0198-house-robber) |
+| [0322-coin-change](https://github.com/jishitha23/APS/tree/master/0322-coin-change) |
 | [0474-ones-and-zeroes](https://github.com/jishitha23/APS/tree/master/0474-ones-and-zeroes) |
 | [0746-min-cost-climbing-stairs](https://github.com/jishitha23/APS/tree/master/0746-min-cost-climbing-stairs) |
 ## String
@@ -262,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/jishitha23/APS/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/jishitha23/APS/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/jishitha23/APS/tree/master/0210-course-schedule-ii) |
+| [0322-coin-change](https://github.com/jishitha23/APS/tree/master/0322-coin-change) |
 | [0547-number-of-provinces](https://github.com/jishitha23/APS/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/jishitha23/APS/tree/master/0695-max-area-of-island) |
 | [0721-accounts-merge](https://github.com/jishitha23/APS/tree/master/0721-accounts-merge) |
@@ -420,9 +423,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Knapsack Problem
 |  |
 | ------- |
+| [0322-coin-change](https://github.com/jishitha23/APS/tree/master/0322-coin-change) |
 | [0474-ones-and-zeroes](https://github.com/jishitha23/APS/tree/master/0474-ones-and-zeroes) |
 ## 0-1 Knapsack
 |  |
 | ------- |
 | [0474-ones-and-zeroes](https://github.com/jishitha23/APS/tree/master/0474-ones-and-zeroes) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/jishitha23/APS/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
