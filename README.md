@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/jishitha23/APS/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/jishitha23/APS/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/jishitha23/APS/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0169-majority-element](https://github.com/jishitha23/APS/tree/master/0169-majority-element) |
 | [0200-number-of-islands](https://github.com/jishitha23/APS/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/jishitha23/APS/tree/master/0217-contains-duplicate) |
 | [0239-sliding-window-maximum](https://github.com/jishitha23/APS/tree/master/0239-sliding-window-maximum) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/jishitha23/APS/tree/master/0049-group-anagrams) |
 | [0142-linked-list-cycle-ii](https://github.com/jishitha23/APS/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/jishitha23/APS/tree/master/0160-intersection-of-two-linked-lists) |
+| [0169-majority-element](https://github.com/jishitha23/APS/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/jishitha23/APS/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/jishitha23/APS/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/jishitha23/APS/tree/master/0347-top-k-frequent-elements) |
@@ -48,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/jishitha23/APS/tree/master/0049-group-anagrams) |
+| [0169-majority-element](https://github.com/jishitha23/APS/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/jishitha23/APS/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/jishitha23/APS/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/jishitha23/APS/tree/master/0451-sort-characters-by-frequency) |
@@ -86,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/jishitha23/APS/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/jishitha23/APS/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/jishitha23/APS/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/jishitha23/APS/tree/master/0347-top-k-frequent-elements) |
 ## Heap (Priority Queue)
 |  |
@@ -129,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/jishitha23/APS/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/jishitha23/APS/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/jishitha23/APS/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/jishitha23/APS/tree/master/0451-sort-characters-by-frequency) |
@@ -345,4 +350,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0207-course-schedule](https://github.com/jishitha23/APS/tree/master/0207-course-schedule) |
 | [1203-sort-items-by-groups-respecting-dependencies](https://github.com/jishitha23/APS/tree/master/1203-sort-items-by-groups-respecting-dependencies) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/jishitha23/APS/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
