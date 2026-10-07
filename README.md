@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/jishitha23/APS/tree/master/0739-daily-temperatures) |
 | [0929-unique-email-addresses](https://github.com/jishitha23/APS/tree/master/0929-unique-email-addresses) |
 | [0946-validate-stack-sequences](https://github.com/jishitha23/APS/tree/master/0946-validate-stack-sequences) |
+| [0973-k-closest-points-to-origin](https://github.com/jishitha23/APS/tree/master/0973-k-closest-points-to-origin) |
 | [0977-squares-of-a-sorted-array](https://github.com/jishitha23/APS/tree/master/0977-squares-of-a-sorted-array) |
 | [0994-rotting-oranges](https://github.com/jishitha23/APS/tree/master/0994-rotting-oranges) |
 | [0997-find-the-town-judge](https://github.com/jishitha23/APS/tree/master/0997-find-the-town-judge) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/jishitha23/APS/tree/master/0451-sort-characters-by-frequency) |
 | [0621-task-scheduler](https://github.com/jishitha23/APS/tree/master/0621-task-scheduler) |
 | [0721-accounts-merge](https://github.com/jishitha23/APS/tree/master/0721-accounts-merge) |
+| [0973-k-closest-points-to-origin](https://github.com/jishitha23/APS/tree/master/0973-k-closest-points-to-origin) |
 | [0977-squares-of-a-sorted-array](https://github.com/jishitha23/APS/tree/master/0977-squares-of-a-sorted-array) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/jishitha23/APS/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Two Pointers
@@ -95,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0190-reverse-bits](https://github.com/jishitha23/APS/tree/master/0190-reverse-bits) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/jishitha23/APS/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0347-top-k-frequent-elements](https://github.com/jishitha23/APS/tree/master/0347-top-k-frequent-elements) |
+| [0973-k-closest-points-to-origin](https://github.com/jishitha23/APS/tree/master/0973-k-closest-points-to-origin) |
 | [1763-longest-nice-substring](https://github.com/jishitha23/APS/tree/master/1763-longest-nice-substring) |
 ## Heap (Priority Queue)
 |  |
@@ -105,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/jishitha23/APS/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0451-sort-characters-by-frequency](https://github.com/jishitha23/APS/tree/master/0451-sort-characters-by-frequency) |
 | [0621-task-scheduler](https://github.com/jishitha23/APS/tree/master/0621-task-scheduler) |
+| [0973-k-closest-points-to-origin](https://github.com/jishitha23/APS/tree/master/0973-k-closest-points-to-origin) |
 ## Merge Sort
 |  |
 | ------- |
@@ -197,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/jishitha23/APS/tree/master/0202-happy-number) |
+| [0973-k-closest-points-to-origin](https://github.com/jishitha23/APS/tree/master/0973-k-closest-points-to-origin) |
 | [1154-day-of-the-year](https://github.com/jishitha23/APS/tree/master/1154-day-of-the-year) |
 | [1185-day-of-the-week](https://github.com/jishitha23/APS/tree/master/1185-day-of-the-week) |
 | [1360-number-of-days-between-two-dates](https://github.com/jishitha23/APS/tree/master/1360-number-of-days-between-two-dates) |
@@ -325,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/jishitha23/APS/tree/master/0347-top-k-frequent-elements) |
+| [0973-k-closest-points-to-origin](https://github.com/jishitha23/APS/tree/master/0973-k-closest-points-to-origin) |
 ## Graph Theory
 |  |
 | ------- |
@@ -384,4 +390,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/jishitha23/APS/tree/master/0315-count-of-smaller-numbers-after-self) |
+## Geometry
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/jishitha23/APS/tree/master/0973-k-closest-points-to-origin) |
+## K-D Tree
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/jishitha23/APS/tree/master/0973-k-closest-points-to-origin) |
 <!---LeetCode Topics End-->
